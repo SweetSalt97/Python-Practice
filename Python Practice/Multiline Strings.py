@@ -1,0 +1,1 @@
+print( 'He said, \'Let Us Python\'.')
